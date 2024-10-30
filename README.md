@@ -3,6 +3,8 @@
 【腾讯文档】深度学习入门推荐及AI小工具汇总
 https://docs.qq.com/doc/DREJZSFV2Q1J1QlNs
 
+PDF版本深度学习入门推荐及AI小工具汇总：https://github.com/mc451742/wu/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%8E%A8%E8%8D%90%E5%8F%8AAI%E5%B0%8F%E5%B7%A5%E5%85%B7%E6%B1%87%E6%80%BB.pdf
+
 动手学深度学习（D2L）课程链接：https://courses.d2l.ai/zh-v2/
 
 This repository contains PyTorch implementation answers from Mu Li's D2L course.
