@@ -2,7 +2,7 @@
 
 【腾讯文档】深度学习入门推荐及AI小工具汇总：https://docs.qq.com/doc/DREJZSFV2Q1J1QlNs
 
-by Wenxuan Zeng, Haicheng Liao
+by [Wenxuan Zeng](https://wenxuanzeng.netlify.app/), [Haicheng Liao](https://petrichor625.github.io/)
 
 动手学深度学习（D2L）课程主页：https://courses.d2l.ai/zh-v2/
 
